@@ -24,11 +24,11 @@ function App() {
           </div>
         </div>
         <div className="list">
-          <div>
-             <p className='strike'>Workout</p>
+          <div className='strike'>
+             <p >Workout</p>
           </div>
-          <div>
-             <img className='strike' src={vector}/>
+          <div className='strike'>
+             <img  src={vector}/>
           </div>
         </div>
         <div className="list">
